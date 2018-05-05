@@ -56,17 +56,20 @@
     <header class="masthead text-center text-white">
       <div class="masthead-content">
         <div class="container">
-          <h1 class="masthead-heading mb-0">About Me</h1>
-     
-            
-           <section>
+          <h1 class="masthead-heading mb-0">A Magical Place</h1>
+       
+          <a href="About.html" class="btn btn-primary btn-xl rounded-pill mt-5">About</a>
+        </div>
+      </div>
+      <div class="bg-circle-1 bg-circle"></div>
+    </header>
+
+    <section>
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 order-lg-2">
             <div class="p-5">
-              <img src="https://pbs.twimg.com/profile_images/954967832621735936/PI2zu-12_400x400.jpg" alt="Lauren" alt="Lauren">
-                <br />
-                <p>Lauren Hamilton is a Junior Information Systems major at Howard University from Raleigh, NC. She has many interests including Fashion and food. This website is a collection of her interests. </p>
+              <img class="img-fluid rounded-circle" src="http://frlmag.com/wp-content/uploads/2017/01/Fashionable-Black-Women.jpg" alt="Black Fashion">
             </div>
           </div>
           <div class="col-lg-6 order-lg-1">
@@ -75,16 +78,9 @@
           </div>
         </div>
       </div>
-    </section>     
-            
-            
-            
-            
-            
-            
-            
-            
-                
+    </section>
+
+    
     <!-- Footer -->
     <footer class="py-5 bg-black">
       <div class="container">
